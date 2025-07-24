@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "_mingw_print_push.h": "c",
+        "crtdefs.h": "c",
+        "_mingw.h": "c",
+        "type_traits": "c",
+        "math.h": "c",
+        "student.h": "c",
+        "stdlib.h": "c",
+        "login.h": "c",
+        "string.h": "c",
+        "typeinfo": "c",
+        "myfile.h": "c",
+        "conio.h": "c",
+        "frame.h": "c",
+        "display.h": "c",
+        "windows.h": "c",
+        "publicdata.h": "c",
+        "datafile.h": "c",
+        "useros.h": "c",
+        "userdata.h": "c",
+        "lotterydata.h": "c",
+        "time.h": "c",
+        "genericlist.h": "c",
+        "officeos.h": "c",
+        "lotteryos.h": "c"
+    }
+}
